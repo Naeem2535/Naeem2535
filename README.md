@@ -9,11 +9,14 @@ web developer  from pakistan
 - 📫 How to reach me: naeemkhanjoyia1@gmail.com
 - ⚡ All of my project:https://github.com/Naeem2535
 
-##Coneect with me:-
+## 🔗 Connect with me:
 
-<a href="https://linkedin.com/in/naeem-nawaz" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Naeem%20Nawaz-blue?style=for-the-badge&logo=linkedin">
-</a>
+<p align="left">
+  <a href="https://linkedin.com/in/naeem-nawaz" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
+
 
 
 ## Languages and Tools:
