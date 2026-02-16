@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi👋,I am Naeem Nawaz
+web developer  from pakistan
 
-<!--
-**Naeem2535/Naeem2535** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on pakistan property
+- 🌱 I’m currently learning php laravel,react native
+- 💬 Ask me about React js,Php laravel
+- 📫 How to reach me: naeemkhanjoyia1@gmail.com
+- ⚡ All of my project:https://github.com/Naeem2535
+
+Coneect with me:-
+in/muhammad-naeem-nawaz
+
+LANGUAGE AND tools:-
+Html,css,Bootstrap,javascript,React js,Php,sql,Mysql,php laravel
