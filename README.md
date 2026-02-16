@@ -13,6 +13,9 @@ web developer  from pakistan
 
 - 💼 [LinkedIn](https://linkedin.com/in/naeem-nawaz)
 
-##LANGUAGE AND tools:-
+## Languages and Tools:
 
-Html,css,Bootstrap,javascript,React js,Php,sql,Mysql,php laravel
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=android,aws,cpp,docker,express,figma,firebase,flutter,git,js,mongodb,mysql,nestjs,nextjs,nginx,nodejs,postgres,react,redux,selenium,tailwind,ts" />
+</p>
+
