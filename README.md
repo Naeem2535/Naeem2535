@@ -1,5 +1,4 @@
-## Hi👋,I am Naeem Nawaz
-web developer  from pakistan
+## Hi👋,I am Naeem Nawaz <br> web developer  from pakistan
 
 
 
