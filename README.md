@@ -11,7 +11,7 @@ web developer  from pakistan
 
 ##Coneect with me:-
 
-in/muhammad-naeem-nawaz
+- 💼 [LinkedIn](https://linkedin.com/in/naeem-nawaz)
 
 ##LANGUAGE AND tools:-
 
