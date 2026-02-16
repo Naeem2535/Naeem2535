@@ -11,7 +11,10 @@ web developer  from pakistan
 
 ##Coneect with me:-
 
-- 💼 [LinkedIn](https://linkedin.com/in/naeem-nawaz)
+<a href="https://linkedin.com/in/naeem-nawaz" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Naeem%20Nawaz-blue?style=for-the-badge&logo=linkedin">
+</a>
+
 
 ## Languages and Tools:
 
