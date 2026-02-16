@@ -17,11 +17,10 @@ web developer  from pakistan
   </a>
 </p>
 
-
-
 ## Languages and Tools:
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=android,aws,cpp,docker,express,figma,firebase,flutter,git,js,mongodb,mysql,nestjs,nextjs,nginx,nodejs,postgres,react,redux,selenium,tailwind,ts" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,php,mysql,laravel,java" />
 </p>
+
 
