@@ -9,8 +9,10 @@ web developer  from pakistan
 - 📫 How to reach me: naeemkhanjoyia1@gmail.com
 - ⚡ All of my project:https://github.com/Naeem2535
 
-Coneect with me:-
+##Coneect with me:-
+
 in/muhammad-naeem-nawaz
 
-LANGUAGE AND tools:-
+##LANGUAGE AND tools:-
+
 Html,css,Bootstrap,javascript,React js,Php,sql,Mysql,php laravel
