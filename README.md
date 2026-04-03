@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning php laravel,react native
 - 💬 Ask me about React js,Php laravel
 - 📫 How to reach me: naeemkhanjoyia1@gmail.com
-- ⚡ All of my project:https://github.com/Naeem2535
+- ⚡ All of my project:https:github.com/naeem-nawaz
 
 ## 🔗 Connect with me:
 
