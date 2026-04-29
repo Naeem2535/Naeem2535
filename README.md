@@ -1,4 +1,4 @@
-## Hi👋,I am Naeem Nawaz <br> <h4>web developer  from pakistan</h4>
+## Hi👋,I am Naeem Nawaz <br> <h4>Full Stack developer  from pakistan</h4>
 
 
 
