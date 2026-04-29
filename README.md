@@ -25,7 +25,7 @@
 ## Languages and Tools:
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,php,mysql,laravel,Figma,postmen" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,php,mysql,laravel,figma,postmen" />
 </p>
 
 
