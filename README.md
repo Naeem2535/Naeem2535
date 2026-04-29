@@ -11,7 +11,7 @@
 ## 🔗 Connect with me:
 
 <p align="left">
-  <a href="https://linkedin.com/in/naeem-nawaz" target="_blank">
+  <a href="https://www.linkedin.com/in/muhammad-naeem-nawaz/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
